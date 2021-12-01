@@ -117,6 +117,18 @@
         "hungry"
       ],
       "id": "11"
+    },
+    {
+      "name": "Louie",
+      "species": "Dog",
+      "diet": "carnivore",
+      "personalityTraits": [
+        "hungry",
+        "loving",
+        "goofy"
+      ],
+      "id": "12"
     }
+    
   ]
 }
